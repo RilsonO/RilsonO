@@ -1,8 +1,6 @@
 ### Hello! 👋 I'm a passionate developer experienced in mobile app development with React Native. I strive to create robust and impactful solutions. I'm also expanding my skills in Node.js and ReactJS to build innovative web applications. Feel free to explore my repositories and projects to see my work and contributions to the developer community. Let's connect and create something great together!
 <br/>
 
-## Technologies I use in my daily life
-
 [
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   ](https://www.linkedin.com/in/rilson-oliveira-1560a7109/)
@@ -12,6 +10,8 @@
 [
   ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
   ](https://wa.me/+5538991682289)
+
+## Technologies I use in my daily life
 
 <div style="display= inline-block"><br/>
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
