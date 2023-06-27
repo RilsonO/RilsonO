@@ -30,8 +30,6 @@
   <img align="center" alt="Node-Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-<br/>
-
 ## I'm studying about
 
  - Backend with NodeJs at Rocketseat (updating) 
