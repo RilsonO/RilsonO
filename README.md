@@ -13,7 +13,7 @@
   ](https://wa.me/+5538991682289)
 
 <br/>
-<div style="display= inline-block">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
   ![Rilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=RilsonO&show_icons=true&theme=tokyonight)
 
