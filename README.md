@@ -13,13 +13,13 @@
   ](https://wa.me/+5538991682289)
 
 <br/>
+<div style="display= inline-block">
 
   ![Rilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=RilsonO&show_icons=true&theme=tokyonight)
 
-<br/>
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RilsonO)](https://github.com/RilsonO/github-readme-stats)
 
+</div>
 <br/>
 <br/>
 
