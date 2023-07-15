@@ -1,6 +1,6 @@
 ### Hi, I'm Rilson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer. I have been working exclusively with mobile development since 2019 with React-Native.
+I’m a Mobile Engineer. I have been working exclusively with mobile development since 2019 with React-Native.
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
