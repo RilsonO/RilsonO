@@ -3,10 +3,11 @@
 I’m a Mobile Engineer. I have been working exclusively with mobile development since 2019 with React-Native.
 
 #### My current tools 
-📲 Front-end Mobile with React Native  
-🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs  
-🛠️ Typescript/Javascript  
+📲 Front-end Mobile with Flutter / React Native  
+🌎 Front-end Web with Flutter / Reactjs
+🖥️ Desktop with Flutter
+📡 Back-end with Dart  
+🛠️ Typescript/Javascript/Dart
 🧰 And more... 
 
 
@@ -27,4 +28,6 @@ I’m a Mobile Engineer. I have been working exclusively with mobile development
   <img align="center" alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="React-Js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="Node-Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/flutter-1D44B8?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img align="center" alt="Dart" src="https://img.shields.io/badge/dart-577AE4?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
