@@ -5,7 +5,7 @@ I’m a Mobile Engineer. I have been working exclusively with mobile development
 #### My current tools 
 📲 Front-end Mobile with Flutter / React Native  
 🌎 Front-end Web with Flutter / Reactjs  
-🖥️ Desktop with Flutter 
+🖥️ Desktop with Flutter   
 📡 Back-end with Dart  
 🛠️ Typescript/Javascript/Dart  
 🧰 And more... 
